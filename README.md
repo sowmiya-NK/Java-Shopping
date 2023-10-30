@@ -16,8 +16,8 @@ __________________________________________________________________
 
 # Flow
 _________________________________________________________________________________________________________________
--First app run from app.java
--In app.java class File,we create a constructor for appController model
+- First app run from app.java
+- In app.java class File,we create a constructor for appController model
 -call a Init method from app.java to appController file
 -In that Init Method we call a welcome method to welcome page
 -It display a "Welcome to java shopping"
